@@ -7,5 +7,7 @@ public class RegistrationFunctionality {
         //.code to automate registration
         //commit
         //push
+        //new test
+        //..
     }
 }
