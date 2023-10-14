@@ -14,11 +14,10 @@ public class LoginFunctionality {
         //...
         // Login Functinality test
 
+        //branch -- it's basically copy the project from which you create the branch
         //commit -- code / button
         // push -- code / button
 
-        //...
 
-        //..
     }
 }
